@@ -1,7 +1,7 @@
 import base64
 import re
 
-print("Idle Breakout Save Code Generator by SCS Psyco29")
+print("Idle Breakout Save Code Generator by ChickenMan")
 
 # TODO prestige modification
 
